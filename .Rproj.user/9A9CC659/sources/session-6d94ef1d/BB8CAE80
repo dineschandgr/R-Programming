@@ -3,9 +3,9 @@
     "path": "~/Desktop/Dinesh/Project/R-Programming/Math.R",
     "project_path": "Math.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1772071301",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1726497298282.0,
     "source_on_save": false,
     "relative_order": 5,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1726497298,
+    "lastKnownWriteTime": 1726664188,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1726497300190,
+    "last_content_update": 1726664188506,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -17,3 +17,4 @@ class(x)
 # logical/boolean
 x <- TRUE
 class(x)
+

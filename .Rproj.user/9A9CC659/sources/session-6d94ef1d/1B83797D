@@ -3,9 +3,9 @@
     "path": "~/Desktop/Dinesh/Project/R-Programming/Strings.R",
     "project_path": "Strings.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3583124743",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1726578581970.0,
     "source_on_save": false,
     "relative_order": 6,
@@ -16,11 +16,11 @@
         "scrollLine": "9"
     },
     "folds": "",
-    "lastKnownWriteTime": 1726578581,
+    "lastKnownWriteTime": 1726664188,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1726579412185,
+    "last_content_update": 1726664188525,
     "read_only": false,
     "read_only_alternatives": []
 }

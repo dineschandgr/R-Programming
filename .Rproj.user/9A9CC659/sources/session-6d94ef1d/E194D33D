@@ -3,9 +3,9 @@
     "path": "~/Desktop/Dinesh/Project/R-Programming/boolean.R",
     "project_path": "boolean.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2381541645",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1726579456912.0,
     "source_on_save": false,
     "relative_order": 7,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1726579456,
+    "lastKnownWriteTime": 1726664188,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1726579484226,
+    "last_content_update": 1726664188535,
     "read_only": false,
     "read_only_alternatives": []
 }

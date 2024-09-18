@@ -14,3 +14,7 @@ var1 <- var2 <- var3 <- "Orange"
 var1
 var2
 var3
+"Apple" -> var3
+var1
+var2
+var3
