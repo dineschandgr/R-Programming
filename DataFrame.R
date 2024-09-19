@@ -15,7 +15,7 @@ Data_Frame[["Training"]]
 Data_Frame$Pulse
 
 # Add a new row
-New_row_DF <- rbind(Data_Frame, c("Strength", 110, 110))
+New_row_DF <- rbind(Data_Frame, c("Weight", 110, 110))
 
 # Print the new row
 New_row_DF

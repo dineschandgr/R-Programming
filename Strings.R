@@ -11,6 +11,7 @@ nchar(str)
 cat(str)
 
 grepl("H", str)
+grepl("eiusmod",str)
 str1 <- "Welcome"
 str2 <- "World"
 paste(str1, str2)
