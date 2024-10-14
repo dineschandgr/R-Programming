@@ -1,3 +1,5 @@
+getwd()
+setwd("/Users/dineshchandgeetharavichandran/Desktop/Dinesh/Project/R-Programming/Files")
 file.create("hello.txt")
 
 data_Frame <- data.frame (
@@ -22,3 +24,5 @@ myData = read.csv(file.choose())
 print(myData)
 
 write.csv2(myData, file = "my_data.csv")
+
+list.files()

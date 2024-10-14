@@ -1,4 +1,0 @@
-.libPaths()
-
-library()
-installed.packages()

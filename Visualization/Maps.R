@@ -11,5 +11,5 @@ library(maps)
 map(database = "world")
 
 # marking points on map
-points(x = df$lat[1:500], y = df$lng[1:500],
+points(x = df$lat[1:100], y = df$lng[1:100],
        col = "Red")

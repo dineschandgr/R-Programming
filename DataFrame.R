@@ -19,3 +19,11 @@ New_row_DF <- rbind(Data_Frame, c("Weight", 110, 110))
 
 # Print the new row
 New_row_DF
+
+Data_Frame_New <- New_row_DF[-c(1), -c(1)]
+Data_Frame_New
+
+dim(Data_Frame)
+ncol(Data_Frame)
+nrow(Data_Frame)
+length(Data_Frame)
